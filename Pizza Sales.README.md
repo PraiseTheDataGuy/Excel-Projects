@@ -1,6 +1,6 @@
 PIZZA SALES DATA ANALYSIS PROJECT WITH MS EXCEL.
 
-
+NOTE: THE IMAGES OBTAINED FROM THIS ANALYSIS ARE CONTAINED IN THE PIZZA SALES ANALYSIS-IMAGES PDF https://github.com/PraiseTheDataGuy/Excel-Projects/blob/main/Pizza%20Sales%20Analysis-%20images..pdf. THE IMAGES COULD NOT BE UPLOADED DIRECTLY DUE TO THE NATURE OF GITHUB.
 
 Pizza, Italy’s famous tasty and affordable meal, has a way of drawing me to itself. It is no surprise I decided to go for Pizza when looking for a dataset to analyze on Kaggle.
 
