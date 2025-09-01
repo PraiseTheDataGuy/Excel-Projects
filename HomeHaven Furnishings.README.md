@@ -6,12 +6,12 @@ This project provides a data-driven analysis of the company's performance in thr
 **OBJECTIVE.**
 The objective of this analysis is to obtain insights, observe patterns and trends, take the best course of action to improve efficiency and drive up the revenue of the company
 
-**TOOL: **MS-EXCEL
+**TOOL:** MS-EXCEL
 <img width="758" height="468" alt="image" src="https://github.com/user-attachments/assets/5237ef48-6912-41ae-a32f-4e7d8c8629f3" />
 <img width="608" height="368" alt="image" src="https://github.com/user-attachments/assets/c0416296-84ac-417b-bc40-4be06231bc09" />
 <img width="780" height="435" alt="image" src="https://github.com/user-attachments/assets/06d16c1b-508b-4b2d-9c8c-56aa6a426392" />
 
-**KEY METRICS: **
+**KEY METRICS:**
 Total Revenue: $2.5M
 Total Profit: $2.2M
 Total Orders: 1,938
